@@ -2,7 +2,7 @@
 
 A smart app that would adapt your environment to your needs. Using (IoT),a wearable Device and the power of TensorFlow we try to detect and help you get through your struggles throughout the day and night
 [youtube link](https://www.youtube.com/watch?v=OwvyCDNKIZQ)
-## announcement
+## Announcement (Stila + Xtrinsic) cooperation for Mental health therapy
 We are very pleased to announce that our meeting with Mr. Yingding at the Google Networking event in Munich has resulted to a full cooperation between STILA and our project Xtrinsic.
 [STILA](https://youtu.be/GZe5BKBnzho)
 Mr. Yingding and we share the same goal of accelerating the development of wearable solutions for mental health therapy. This cooperation has a special meaning and impact, not only because the STILA project was the winner of the Google Developer Challenge 2020 but also because it saves us almost 2 years of development that Mr. Yingding has invested in his project.
@@ -21,11 +21,11 @@ Starting 1st of June the STILA stress detector is fully integrated in our Xtrins
 - [x] Smart devices management: managed by Google home and triggered by google assisstant.
 - [x] trigger simulator button: a button that would simulate how the app would function after all the features are implemented (for presenting and debugging )
 - [x] develope algorithms for mental health and behavior therapy (long sitting sessions, Stress detection, Nightmare detection)
-### TODO (With Google Mentorship)
-- [ ] integrate the developed algorithms in the app
-- [ ] convert the TensorFlow model to TensorFlow light
-- [ ] add firebase database for storing data
-- [ ] fetch the data on the PHone from the Google Health API 
+### Done (while Google Mentorship phase)
+- [x] integrate the developed algorithms in the app
+- [x] convert the TensorFlow model to TensorFlow light
+- [x] add firebase database for storing data
+- [ ] fetch the data on the PHone from the Google Health API (the API was deprecated on May 10th, we are looking for alternatives)
 
 ## Build The App
 
