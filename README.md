@@ -1,7 +1,7 @@
 # About App
 
 A smart app that would adapt your environment to your needs. Using (IoT),a wearable Device and the power of TensorFlow we try to detect and help you get through your struggles throughout the day and night
-https://youtu.be/KYFi36nTe0g
+[https://youtu.be/KYFi36nTe0g](https://www.youtube.com/watch?v=OwvyCDNKIZQ)
 
 ## MVP Components and features checklist:
 ### on The Watch Side:
