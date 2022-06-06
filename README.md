@@ -7,7 +7,7 @@ We are very pleased to announce that our meeting with Mr. Yingding at the Google
 [STILA](https://youtu.be/GZe5BKBnzho)
 Mr. Yingding and we share the same goal of accelerating the development of wearable solutions for mental health therapy. This cooperation has a special meaning and impact, not only because the STILA project was the winner of the Google Developer Challenge 2020 but also because it saves us almost 2 years of development that Mr. Yingding has invested in his project.
 
-Starting 1st of June the STILA stress detector is fully integrated in our Xtrinsic appthrough a content provider. We have already started developing smart actions based on the STILA Stress Score.
+Starting 1st of June the STILA stress detector is fully integrated in our Xtrinsic app through a content provider. We have already started developing smart actions based on the STILA Stress Score.
 
 ## MVP Components and features checklist:
 ### on The Watch Side:
