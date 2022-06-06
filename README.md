@@ -21,12 +21,16 @@ Starting 1st of June the STILA stress detector is fully integrated in our Xtrins
 - [x] Smart devices management: managed by Google home and triggered by google assisstant.
 - [x] trigger simulator button: a button that would simulate how the app would function after all the features are implemented (for presenting and debugging )
 - [x] develope algorithms for mental health and behavior therapy (long sitting sessions, Stress detection, Nightmare detection)
-### Done (while Google Mentorship phase)
+### Done (during Google Mentorship phase)
 - [x] integrate the developed algorithms in the app
 - [x] convert the TensorFlow model to TensorFlow light
 - [x] add firebase database for storing data
 - [ ] fetch the data on the PHone from the Google Health API (the API was deprecated on May 10th, we are looking for alternatives)
-
+### next steps
+- [ ] integrate DialogFlow in our app
+- [ ] starting a clinical study at one or more of the partner universities (TF-Freiburg, TU Munich, KPI Kyiv)
+- [ ] seeking a sponsor for server hosting and needed hardware (smartwatch or fitbit)
+- [ ] 
 ## Build The App
 
 <p align = "center">
