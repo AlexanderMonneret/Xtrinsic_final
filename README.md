@@ -3,9 +3,9 @@
 A smart app that would adapt your environment to your needs. Using (IoT),a wearable Device and the power of TensorFlow we try to detect and help you get through your struggles throughout the day and night
 [youtube link](https://www.youtube.com/watch?v=OwvyCDNKIZQ)
 ## Announcement (Stila + Xtrinsic) cooperation for Mental health therapy
-We are very pleased to announce that our meeting with Mr. Yingding at the Google Networking event in Munich has resulted to a full cooperation between STILA and our project Xtrinsic.
+We are very pleased to announce that our meeting with Mr. Yingding Wang at the Google Networking event in Munich has resulted to a full cooperation between STILA and our project Xtrinsic.
 [STILA](https://youtu.be/GZe5BKBnzho)
-Mr. Yingding and we share the same goal of accelerating the development of wearable solutions for mental health therapy. This cooperation has a special meaning and impact, not only because the STILA project was the winner of the Google Developer Challenge 2020 but also because it saves us almost 2 years of development that Mr. Yingding has invested in his project. 
+Mr. Wang and we share the same goal of accelerating the development of wearable solutions for mental health therapy. This cooperation has a special meaning and impact, not only because the STILA project was a winner of the Google Developer Challenge 2020 but also because it saves us almost 2 years of development that Mr. Wang has invested in his project. 
 Starting 1st of June the STILA stress detector is fully integrated in our Xtrinsic app through a content provider. We have already started developing smart actions based on the STILA Stress Score.   (Stila app is required on Phone & Watch)
 
 
