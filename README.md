@@ -12,7 +12,7 @@ Starting 1st of June the STILA stress detector is fully integrated in our Xtrins
 ## MVP Components and features checklist:
 ### on The Watch Side:
 - [x]  finding a WearOS3 Device with the right sensors for data gathering (using Galaxy SmartWatch4)
-- [x] Syncing Data between watch and phone, done using Google Health API (no need for extra WearableApp). API depricated May.2022 using STILA
+- [x] Syncing Data between watch and phone, done using Google Health API (no need for extra WearableApp). API depricated May.2022, alternative solution using STILA content provider
 - [x] Synch data directly with the Phone via bluetooth. (Using STILA watch app)
 ### On The Phone Side:
 - [x] Phone App with Graphs, Buttons and placeholders to present our Idea.
